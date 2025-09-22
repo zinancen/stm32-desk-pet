@@ -1,0 +1,25 @@
+Log file created at: 2025/07/12 23:36:32  PID: 10932
+Running on machine: DESKTOP-BS09TC4
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0712 23:36:32.623785  4104 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], version: V1.0.1 
+ 
+I0712 23:40:47.971171  4104 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 1 
+I0712 23:40:47.988972  4104 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 5 
+I0712 23:40:50.941174  4104 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:5 
+ 
+I0712 23:41:01.985116  8140 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM5 XmodermSendFile detected CCC, start send file 
+ 
+I0712 23:41:01.985116  8140 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM5 ReadSendFile C:\Users\k\Desktop\jx_su_03t_release_update.bin m_iTransferTimes finished 1211 
+ 
+I0712 23:42:36.483814  4104 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 1 
+I0712 23:42:36.513975  4104 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 5 
+I0712 23:42:36.533975  4104 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:5 
+ 
+I0712 23:42:47.804489  4104 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 1 
+I0712 23:42:47.838057  4104 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 5 
+I0712 23:42:47.864094  4104 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:5 
+ 
+I0712 23:42:56.314992  8140 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM5 XmodermSendFile detected CCC, start send file 
+ 
+I0712 23:42:56.314992  8140 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM5 ReadSendFile C:\Users\k\Desktop\jx_su_03t_release_update.bin m_iTransferTimes finished 1211 
+ 
